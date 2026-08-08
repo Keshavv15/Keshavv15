@@ -4,6 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,45:4f46e5,100:7c3aed&height=190&section=header&text=KESHAV%20SHARMA&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20SQL%20%7C%20POWER%20BI&descAlignY=58&descSize=15" width="100%" />
 </a>
 
+<img src="https://raw.githubusercontent.com/Keshavv15/Keshavv15/main/assets/spaceship.svg" alt="Animated spaceship" width="95%" />
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;SQL+%7C+MySQL+%7C+Power+BI+%7C+Excel;Python+%7C+Pandas+%7C+Power+Query;Building+Business+Intelligence+Dashboards;Turning+Raw+Data+Into+Business+Insights" />
 </a>
