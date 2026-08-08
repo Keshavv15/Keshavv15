@@ -1,0 +1,387 @@
+<div align="center">
+
+<a href="https://capsule-render.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,45:4f46e5,100:7c3aed&height=190&section=header&text=KESHAV%20SHARMA&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20SQL%20%7C%20POWER%20BI&descAlignY=58&descSize=15" width="100%" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;SQL+%7C+MySQL+%7C+Power+BI+%7C+Excel;Python+%7C+Pandas+%7C+Power+Query;Building+Business+Intelligence+Dashboards;Turning+Raw+Data+Into+Business+Insights" />
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/BBA-2026-6366F1?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/MDU-Rohtak-7C3AED?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Location-India-4F46E5?style=for-the-badge&labelColor=111827" />
+
+<br><br>
+
+<a href="https://github.com/Keshavv15">
+  <img src="https://img.shields.io/badge/GitHub-Keshavv15-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/keshav-sharma15/">
+  <img src="https://img.shields.io/badge/LinkedIn-Keshav%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:keshavsharma1666@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Keshavv15&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Keshavv15?style=for-the-badge&color=7c3aed&labelColor=111827&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/Keshavv15?style=for-the-badge&color=8b5cf6&labelColor=111827&label=STARS" />
+
+</div>
+
+---
+
+## ABOUT ME
+
+I am a **BBA student and aspiring Data Analyst** focused on turning raw data into clear, actionable business insights.
+
+My portfolio combines **SQL, MySQL, Power BI, Excel and Python** to solve practical analytics problems — from data cleaning and transformation to exploratory analysis, KPI development, dashboard design and business reporting.
+
+I enjoy building projects that connect **technical analysis with business decision-making**, while continuously strengthening my skills through hands-on, real-world datasets.
+
+### Open To
+
+`Data Analyst` `Business Analyst` `BI Analyst` `SQL Analyst` `Analytics Internships` `Entry-Level Data Roles`
+
+---
+
+## DATA ANALYTICS TECH STACK
+
+### Data Analysis
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+</p>
+
+<img src="https://img.shields.io/badge/SQL-6366F1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+
+### Business Intelligence & Visualization
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" />
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Visualization-6366F1?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+</p>
+
+---
+
+## DATA & ANALYTICS EXPERTISE
+
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| SQL Analytics | Advanced | Joins, aggregations, filtering, subqueries and business-focused queries |
+| MySQL | Advanced | Relational databases, table management and analytical querying |
+| Power BI | Advanced | Interactive dashboards, KPI reporting, visual analytics and data modeling |
+| Excel | Advanced | Data cleaning, formulas, pivot tables and business reporting |
+| Python / Pandas | Intermediate | Data cleaning, transformation and exploratory analysis |
+| Power Query | Intermediate | Data preparation, transformation and workflow automation |
+| Data Visualization | Advanced | KPI design, charts, dashboards and analytical storytelling |
+| Business Intelligence | Intermediate | Converting operational data into decision-ready insights |
+| Data Cleaning | Advanced | Duplicate handling, null values, transformations and validation |
+
+---
+
+## FEATURED PROJECTS
+
+<details>
+<summary><strong>01 · E-Commerce Python + SQL Analytics</strong></summary>
+
+<br>
+
+An end-to-end e-commerce analytics project combining **Python, Pandas, MySQL and SQL** across multiple relational datasets.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | Python · Pandas · MySQL · SQL |
+| **Project Type** | E-Commerce Data Analysis |
+| **Data** | Customers · Orders · Sellers · Products · Payments · Order Items · Geolocation |
+| **Analysis** | Customer, order, product, seller and payment analysis |
+| **Data Processing** | Cleaning · Transformation · Validation |
+| **Business Impact** | Identifies patterns and business insights from e-commerce operations |
+| **Repository** | [View Project](https://github.com/Keshavv15/python-sql_ecommerce_project) |
+
+### Key Analysis
+
+- Structured multiple related e-commerce datasets for analysis
+- Used SQL to answer business-oriented questions
+- Applied Python and Pandas for data preparation and analysis
+- Worked with relational data across customers, orders, products and payments
+- Performed cleaning and transformation before analytical querying
+- Extracted insights from transactional and operational data
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>02 · Retail Business Intelligence Dashboard</strong></summary>
+
+<br>
+
+An interactive **Power BI Business Intelligence dashboard** designed to analyze retail sales performance and present decision-ready KPIs.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | Power BI · Power Query · Excel |
+| **Project Type** | Retail Business Intelligence |
+| **Analysis** | Sales performance · Trends · KPIs |
+| **Visualization** | Interactive charts · KPI cards · Filters |
+| **Data Processing** | Power Query transformation and preparation |
+| **Business Impact** | Converts retail sales data into an interactive reporting experience |
+| **Repository** | [View Project](https://github.com/Keshavv15/Retail-Business-Intelligence-Dashboard) |
+
+### Key Analysis
+
+- Built an interactive retail sales dashboard
+- Developed KPI-focused reporting
+- Analyzed sales trends and business performance
+- Used Power Query for data preparation
+- Designed an executive-friendly visualization layout
+- Added interactive filtering for deeper analysis
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>03 · Swiggy Instamart Sales Dashboard</strong></summary>
+
+<br>
+
+A Power BI sales analytics dashboard focused on **Instamart performance, product analysis and business KPIs**.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | Power BI · Power Query · Excel |
+| **Project Type** | Sales Analytics Dashboard |
+| **Analysis** | Sales · Products · Performance · KPIs |
+| **Visualization** | KPI cards · Charts · Interactive filters |
+| **Data Processing** | Power Query |
+| **Business Impact** | Makes sales and product performance easier to explore |
+| **Repository** | [View Project](https://github.com/Keshavv15/Swiggy-Instamart-sales-dashboard) |
+
+### Key Analysis
+
+- Designed an interactive sales dashboard
+- Created KPI-driven reporting
+- Analyzed product and sales performance
+- Applied Power Query for data transformation
+- Built a clean business-focused visual reporting experience
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>04 · Retail Sales Performance Dashboard</strong></summary>
+
+<br>
+
+A Power BI dashboard project focused on analyzing retail sales performance through interactive visual reporting.
+
+| Category | Details |
+|:---|:---|
+| **Stack** | Power BI · Excel · Power Query |
+| **Project Type** | Retail Sales Analytics |
+| **Focus** | Sales performance · Trends · KPIs |
+| **Visualization** | Interactive Power BI reporting |
+| **Data Processing** | Data preparation and transformation |
+| **Repository** | [View Project](https://github.com/Keshavv15/Retail-Sales-Performance-Dashboard) |
+
+</details>
+
+---
+
+## PROFESSIONAL DEVELOPMENT
+
+### Data Analytics Portfolio Development
+**2025 — Present**
+
+Building practical analytics projects to strengthen industry-ready skills across SQL, Power BI, Excel and Python.
+
+- Build end-to-end analytics projects using real-world datasets
+- Develop interactive Power BI dashboards
+- Perform SQL-based business analysis
+- Clean and transform structured datasets
+- Create KPI-driven reports
+- Apply business-focused data visualization
+- Document projects and workflows on GitHub
+
+`SQL` `Power BI` `Excel` `Python` `Pandas` `MySQL` `Power Query` `GitHub`
+
+---
+
+## ACHIEVEMENTS
+
+<div align="center">
+
+| Recognition | Details |
+|:---:|:---|
+| 📊 | Built multiple Data Analytics portfolio projects |
+| 📈 | Developed interactive Power BI dashboards |
+| 🗄️ | Completed an end-to-end Python + SQL e-commerce analysis |
+| 🧹 | Worked through practical data cleaning and transformation workflows |
+| 💻 | Built a project-based GitHub analytics portfolio |
+| 🚀 | Continuously developing industry-relevant Data Analytics skills |
+
+</div>
+
+---
+
+## CURRENT LEARNING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20SQL-6366F1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI%20%26%20DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827" />
+<img src="https://img.shields.io/badge/Python%20Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+</div>
+
+---
+
+## PROFESSIONAL & CODING PROFILES
+
+<div align="center">
+
+<a href="https://github.com/Keshavv15">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/keshav-sharma15/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:keshavsharma1666@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-keshavsharma1666%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<a href="https://github.com/Keshavv15">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Keshavv15&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9" />
+</a>
+
+<a href="https://github.com/Keshavv15">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshavv15&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Keshavv15&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=A78BFA" />
+
+</div>
+
+---
+
+## GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Keshavv15&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" />
+
+</div>
+
+---
+
+## CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Keshavv15&bg_color=0D1117&color=A78BFA&line=6366F1&point=C4B5FD&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Keshavv15/Keshavv15/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="95%" />
+
+</div>
+
+---
+
+## CURRENT FOCUS
+
+```yaml
+Learning:
+  - Advanced SQL
+  - Power BI & DAX
+  - Python for Data Analysis
+  - Advanced Excel
+  - Business Intelligence
+
+Building:
+  - Data Analytics Portfolio Projects
+  - Interactive Power BI Dashboards
+  - SQL Business Analysis Projects
+  - End-to-End Analytics Workflows
+
+Exploring:
+  - Advanced Business Analytics
+  - Data Engineering Fundamentals
+  - Analytics Automation
+  - AI-Assisted Data Analysis
+
+Open To:
+  - Data Analyst Roles
+  - Business Analyst Roles
+  - BI Analyst Roles
+  - Analytics Internships
+  - Collaborative Data Projects
+```
+
+---
+
+## CONNECT
+
+<div align="center">
+
+<a href="mailto:keshavsharma1666@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/keshav-sharma15/">
+<img src="https://img.shields.io/badge/LinkedIn-Keshav%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Keshavv15">
+<img src="https://img.shields.io/badge/GitHub-Keshavv15-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### “Turning data into insights, and insights into better decisions.”
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:6366f1,100:312e81&height=130&section=footer" width="100%" />
+
+</div>
