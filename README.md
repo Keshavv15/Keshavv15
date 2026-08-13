@@ -1,8 +1,15 @@
 <div align="center">
 
-<a href="https://capsule-render.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:4f46e5,100:7c3aed&height=190&section=header&text=KESHAV%20SHARMA&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20SQL%20%7C%20POWER%20BI&descAlignY=58&descSize=15" width="100%" /></a>
-
-<img src="https://raw.githubusercontent.com/Keshavv15/Keshavv15/main/assets/spaceship.svg" width="95%" alt="Animated space analytics banner" />
+<table>
+<tr>
+<td width="180" align="center">
+<img src="https://avatars.githubusercontent.com/u/183997594?v=4" width="150" alt="Keshav Sharma" />
+</td>
+<td align="center">
+<a href="https://github.com/Keshavv15"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:4f46e5,100:7c3aed&height=190&section=header&text=KESHAV%20SHARMA&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20SQL%20%7C%20POWER%20BI&descAlignY=58&descSize=15" width="100%" /></a>
+</td>
+</tr>
+</table>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Aspiring+Data+Analyst;SQL+%7C+MySQL+%7C+Power+BI+%7C+Excel;Python+%7C+Pandas+%7C+Power+Query;Building+Business+Intelligence+Dashboards;Turning+Raw+Data+Into+Business+Insights" /></a>
 
@@ -62,68 +69,68 @@ I enjoy connecting **technical analysis with business decision-making** through 
 
 ## FEATURED PROJECTS
 
-<details><summary><strong>01 · E-Commerce Python + SQL Analytics</strong></summary>
+<div align="center">
 
-End-to-end e-commerce analysis using **Python, Pandas, MySQL and SQL** across customers, orders, sellers, products, payments, order items and geolocation.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Category | Details |
-|:---|:---|
-| Stack | Python · Pandas · MySQL · SQL |
-| Focus | Customer · Order · Product · Seller · Payment Analysis |
-| Processing | Cleaning · Transformation · Validation |
-| Repository | [View Project](https://github.com/Keshavv15/python-sql_ecommerce_project) |
+<a href="https://github.com/Keshavv15/Swiggy-Instamart-sales-dashboard"><img src="https://raw.githubusercontent.com/Keshavv15/Swiggy-Instamart-sales-dashboard/main/swiggy%20instamart%20ss.png" width="100%" alt="Swiggy Instamart Sales Dashboard" /></a>
 
-**Key work:** relational data analysis, SQL business queries, Python/Pandas preparation, cleaning and insight extraction.
+### 🛒 Swiggy Instamart Sales Dashboard
 
-</details>
+Power BI dashboard focused on **sales, products, performance and KPIs**.
 
-<br>
+`Power BI` `Power Query` `Excel`
 
-<details><summary><strong>02 · Retail Business Intelligence Dashboard</strong></summary>
+<a href="https://github.com/Keshavv15/Swiggy-Instamart-sales-dashboard"><img src="https://img.shields.io/badge/VIEW_PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-Interactive **Power BI** dashboard for retail sales performance, KPI reporting, trends and business analysis.
+</td>
+<td width="50%" valign="top">
 
-| Category | Details |
-|:---|:---|
-| Stack | Power BI · Power Query · Excel |
-| Focus | Sales Performance · Trends · KPIs |
-| Visualization | KPI Cards · Charts · Interactive Filters |
-| Repository | [View Project](https://github.com/Keshavv15/Retail-Business-Intelligence-Dashboard) |
+<a href="https://github.com/Keshavv15/Retail-Business-Intelligence-Dashboard"><img src="https://raw.githubusercontent.com/Keshavv15/Retail-Business-Intelligence-Dashboard/main/Sales_Analysis.jpeg" width="100%" alt="Retail Business Intelligence Dashboard" /></a>
 
-**Key work:** dashboard design, KPI reporting, Power Query preparation and interactive business analysis.
+### 📊 Retail Business Intelligence
 
-</details>
+Interactive **Power BI** reporting for sales performance, trends and business KPIs.
 
-<br>
+`Power BI` `Power Query` `Excel`
 
-<details><summary><strong>03 · Swiggy Instamart Sales Dashboard</strong></summary>
+<a href="https://github.com/Keshavv15/Retail-Business-Intelligence-Dashboard"><img src="https://img.shields.io/badge/VIEW_PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-Power BI sales analytics dashboard focused on **Instamart performance, products and business KPIs**.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-| Category | Details |
-|:---|:---|
-| Stack | Power BI · Power Query · Excel |
-| Focus | Sales · Products · Performance · KPIs |
-| Visualization | KPI Cards · Charts · Interactive Filters |
-| Repository | [View Project](https://github.com/Keshavv15/Swiggy-Instamart-sales-dashboard) |
+<a href="https://github.com/Keshavv15/Retail-Sales-Performance-Dashboard"><img src="https://raw.githubusercontent.com/Keshavv15/Retail-Sales-Performance-Dashboard/main/sales.jpeg" width="100%" alt="Retail Sales Performance Dashboard" /></a>
 
-**Key work:** sales reporting, product analysis, KPI development and interactive visualization.
+### 📈 Retail Sales Performance
 
-</details>
+Interactive dashboard for **sales performance, trends and KPI reporting**.
 
-<br>
+`Power BI` `Excel` `Power Query`
 
-<details><summary><strong>04 · Retail Sales Performance Dashboard</strong></summary>
+<a href="https://github.com/Keshavv15/Retail-Sales-Performance-Dashboard"><img src="https://img.shields.io/badge/VIEW_PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-Power BI dashboard focused on retail sales performance and interactive business reporting.
+</td>
+<td width="50%" valign="top">
 
-| Category | Details |
-|:---|:---|
-| Stack | Power BI · Excel · Power Query |
-| Focus | Sales Performance · Trends · KPIs |
-| Repository | [View Project](https://github.com/Keshavv15/Retail-Sales-Performance-Dashboard) |
+<a href="https://github.com/Keshavv15/python-sql_ecommerce_project"><img src="https://opengraph.githubassets.com/1/Keshavv15/python-sql_ecommerce_project" width="100%" alt="E-Commerce Python SQL Analytics" /></a>
 
-</details>
+### 🗄️ E-Commerce Python + SQL Analytics
+
+End-to-end analysis across **customers, orders, sellers, products and payments**.
+
+`Python` `Pandas` `MySQL` `SQL`
+
+<a href="https://github.com/Keshavv15/python-sql_ecommerce_project"><img src="https://img.shields.io/badge/VIEW_PROJECT-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/Keshavv15/Keshavv15/main/assets/space-divider.svg" width="100%" />
 
