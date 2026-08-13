@@ -1,3 +1,9 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Keshavv15&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Keshavv15&theme=github-dark" alt="Keshavv15 hero section" />
+  </picture>
+</p>
 <div align="center">
 
 <a href="https://capsule-render.vercel.app/"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:4f46e5,100:7c3aed&height=190&section=header&text=KESHAV%20SHARMA&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=DATA%20ANALYST%20%7C%20BUSINESS%20INTELLIGENCE%20%7C%20SQL%20%7C%20POWER%20BI&descAlignY=58&descSize=15" width="100%" /></a>
