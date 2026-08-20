@@ -19,7 +19,7 @@
 <a href="https://github.com/Keshavv15"><img src="https://img.shields.io/badge/GitHub-Keshavv15-181717?style=for-the-badge&logo=github" /></a> <a href="https://www.linkedin.com/in/keshav-sharma15/"><img src="https://img.shields.io/badge/LinkedIn-Keshav%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:keshavsharma1666@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=Keshavv15&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/Keshavv15?style=for-the-badge&color=7c3aed&labelColor=111827&label=FOLLOWERS" /> <img src="https://img.shields.io/github/stars/Keshavv15?style=for-the-badge&color=8b5cf6&labelColor=111827&label=STARS" />
+<img src="https://komarev.com/ghpvc/?username=Keshavv15&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/badge/GitHub-Keshavv15-181717?style=for-the-badge&logo=github" />
 
 </div>
 
@@ -184,13 +184,13 @@ Building practical analytics projects across SQL, Power BI, Excel and Python.
 
 ## GITHUB TROPHIES
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Keshavv15&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" /></div>
+<div align="center"><img src="https://github-trophies.vercel.app/?username=Keshavv15&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" /></div>
 
 <img src="https://raw.githubusercontent.com/Keshavv15/Keshavv15/main/assets/space-divider.svg" width="100%" />
 
 ## CONTRIBUTION ACTIVITY
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Keshavv15&bg_color=0D1117&color=A78BFA&line=6366F1&point=C4B5FD&area=true&hide_border=true" width="95%" /></div>
+<div align="center"><img src="https://ghchart.rshah.org/6366F1/Keshavv15" width="95%" alt="Keshavv15 GitHub Contribution Activity" /></div>
 
 <img src="https://raw.githubusercontent.com/Keshavv15/Keshavv15/main/assets/space-divider.svg" width="100%" />
 
