@@ -19,7 +19,7 @@
 <a href="https://github.com/Keshavv15"><img src="https://img.shields.io/badge/GitHub-Keshavv15-181717?style=for-the-badge&logo=github" /></a> <a href="https://www.linkedin.com/in/keshav-sharma15/"><img src="https://img.shields.io/badge/LinkedIn-Keshav%20Sharma-0A66C2?style=for-the-badge&logo=linkedin" /></a> <a href="mailto:keshavsharma1666@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=Keshavv15&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/badge/GitHub-Keshavv15-181717?style=for-the-badge&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Keshavv15&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/Keshavv15?style=for-the-badge&color=7c3aed&labelColor=111827&label=FOLLOWERS" /> <img src="https://img.shields.io/github/stars/Keshavv15?style=for-the-badge&color=8b5cf6&labelColor=111827&label=STARS" />
 
 </div>
 
